@@ -16,7 +16,7 @@
                 <div class="flex-links">
                     <div class="myLinks">
                     <a href="https://www.linkedin.com/in/emmyink"><i class="ri-linkedin-line"></i></a>
-                    <a href="https://twitter.com/_Temilolaoluwa?t=Gq2iR8nI8xVA-ka-8rVDUQ&s=08"><i class="ri-twitter-line"></i></a>
+                    <a href="https://twitter.com/_Temilolaoluwa?t=Gq2iR8nI8xVA-ka-8rVDUQ&s=08"><i class="ri-twitter-x-line"></i></a>
                     <!-- <a href=""><i class="ri-whatsapp-line"></i></a> -->
                     <a href="https://instagram.com/emmy_ink1877?igshid=MzRlODBiNWFlZA=="><i class="ri-instagram-line"></i></a>
                 </div>

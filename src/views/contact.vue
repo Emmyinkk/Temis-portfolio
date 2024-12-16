@@ -29,8 +29,8 @@
                             <a href="https://www.linkedin.com/in/emmyink"><i class="ri-linkedin-line"></i></a>
                         </p>
                         <p>
-                            <span>Twitter</span>
-                            <a href="https://twitter.com/_Temilolaoluwa?t=Gq2iR8nI8xVA-ka-8rVDUQ&s=08"><i class="ri-twitter-line"></i></a>
+                            <span>X</span>
+                            <a href="https://twitter.com/_Temilolaoluwa?t=Gq2iR8nI8xVA-ka-8rVDUQ&s=08"><i class="ri-twitter-x-line"></i></a>
                         </p>
                         <p>
                             <span>WhatsApp</span>
